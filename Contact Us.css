@@ -139,9 +139,12 @@ nav ul li :hover {
 
 /* social section */
 .footer {
-  padding: 20px 0;
+  padding: 25px 0;
   position: absolute;
   bottom: 0;
+  top: 594px;
+  left: 0;
+  right: 0;
   background-color: #f9f9f9;
   }
   
