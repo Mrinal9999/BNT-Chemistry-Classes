@@ -117,7 +117,7 @@ nav ul li :hover {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 693px) {
     .navbar ul {
         flex-direction: column;
         align-items: center;
@@ -132,20 +132,30 @@ nav ul li :hover {
       width: 400px;
     }
 
+    .footer-divider {
+      position: absolute;
+      bottom: 68px;
+      left: 20px;
+    }
+
+    .footer-content {
+      position: absolute;
+      bottom: 21px;
+    }
+
     .contact-section p {
         font-size: 16px;
     }
 }
 
 /* social section */
-.footer {
-  padding: 25px 0;
-  position: absolute;
-  bottom: 0;
-  top: 594px;
-  left: 0;
-  right: 0;
-  background-color: #f9f9f9;
+  .footer {
+    padding-bottom: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #f9f9f9;
   }
   
   .footer-divider {
