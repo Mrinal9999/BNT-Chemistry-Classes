@@ -135,9 +135,9 @@ nav ul li :hover {
     }
 
     .footer-content {
-      padding-top: 0px;
       position: absolute;
       bottom: 21px;
+      
     }
 
     .info-section p,
@@ -150,7 +150,12 @@ nav ul li :hover {
 /* social section */
 
 .footer {
-  padding: 20px 0;
+  padding-bottom: 20px;
+  padding-top: 0px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
   background-color: #f9f9f9;
   }
   
