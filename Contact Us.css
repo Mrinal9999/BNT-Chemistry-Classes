@@ -56,6 +56,11 @@ body {
   font-size: 30px;
 }
 
+.menu-icon :hover{
+  color: #0d1f44;
+  text-shadow: 0 0 3px #2f80dd; 
+}
+
 nav ul li :hover {
     background-color: rgba(42, 109, 235, 0.1);
   }

@@ -55,6 +55,11 @@ nav ul li a {
   font-size: 30px;
 }
 
+.menu-icon :hover{
+  color: #0d1f44;
+  text-shadow: 0 0 3px #2f80dd; 
+}
+
 nav ul li :hover {
   background-color: rgba(27, 101, 236, 0.1);
 }
@@ -82,7 +87,6 @@ nav ul li :hover {
   transition: all 0.5s;
  }
 }
-
 
 
 /* Hero Section */
