@@ -67,7 +67,7 @@ nav ul li :hover {
 @media (max-width: 693px) {
   .navbar ul{
       position: absolute;
-      top: 107px;
+      top: 109px;
       left: 0;
       right: 0;
       bottom: 10px;
@@ -77,6 +77,7 @@ nav ul li :hover {
       gap: 0;
       overflow: hidden;
     }
+    
  nav ul li{
   padding: 25px;
  }
